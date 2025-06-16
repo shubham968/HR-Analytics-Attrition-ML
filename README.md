@@ -72,3 +72,15 @@ This project is a Machine Learning pipeline built to predict **employee attritio
 - Fetching real-time data from SQL or API sources
 
 
+
+---
+
+## 🤝 Contributions
+
+If you have ideas for improving this project, feel free to fork the repo, open issues, or submit a pull request!
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
